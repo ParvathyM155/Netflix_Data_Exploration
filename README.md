@@ -51,4 +51,4 @@ The analysis confirms Netflix's shift toward globalized content production. Whil
 
 ## ✍️ Author
 
-Parvathy M
+**Parvathy M**
