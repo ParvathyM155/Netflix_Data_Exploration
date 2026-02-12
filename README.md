@@ -1,4 +1,4 @@
-Netflix Content Strategy Analysis
+          Netflix Content Strategy Analysis
 _________________________________________________________________________________________________________________________________________
 
 📖 Overview
