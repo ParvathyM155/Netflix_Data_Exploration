@@ -1,9 +1,10 @@
-# ── Dataset (download from Kaggle) ────────────────────────────
+# ── Dataset (download from Kaggle) ───────────────────────────
 data/*.xlsx
 data/*.xls
 data/*.csv
 data/*.json
 !data/.gitkeep
+!data/netflix_sample.csv       ← ADD this line
 
 # ── Generated outputs ─────────────────────────────────────────
 # Remove the # below to commit charts to GitHub after running notebook
