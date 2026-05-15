@@ -13,7 +13,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](LICENSE)
 
-[📓 Notebook](Netflix_Data_Analysis.ipynb) &nbsp;·&nbsp; [🚀 Live Dashboard](https://YOUR_APP.streamlit.app) &nbsp;·&nbsp; [📊 Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+[📓 Notebook](Netflix_Data_Analysis.ipynb) &nbsp;·&nbsp; [🚀 Live Dashboard](https://netflixdataexploration-vcxow72tjec5xfynsxkedl.streamlit.app) &nbsp;·&nbsp; [📊 Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 </div>
 
