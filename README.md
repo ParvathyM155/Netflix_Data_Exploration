@@ -238,9 +238,9 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 **[Parvathy]**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github)](https://github.com/ParvathyM155)
+[![GitHub](https://img.shields.io/badge/GitHub-ParvathyM155-181717?style=flat-square&logo=github)](https://github.com/ParvathyM155)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/parvathym155)
-[![Email](https://img.shields.io/badge/Email-your%40email.com-EA4335?style=flat-square&logo=gmail)](mailto:parvathym133@email.com)
+[![Email](https://img.shields.io/badge/Email-parvathym133@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:parvathym133@gmail.com)
 
 ---
 
