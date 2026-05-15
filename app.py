@@ -78,17 +78,14 @@ def load_and_clean(path: Path) -> pd.DataFrame:
 
 
 # ── Dataset path ──────────────────────────────────────────────────────────────
-DATA_PATH = Path('data/Netflix_Dataset.xlsx')
+SAMPLE_URL = "https://raw.githubusercontent.com/ParvathyM155/Netflix_Data_Exploration/main/data/netflix_sample.csv"
+DATA_PATH  = Path('data/Netflix_Dataset.xlsx')
 
-if not DATA_PATH.exists():
-    st.error(
-        "⚠️  Dataset not found.\n\n"
-        "Download `Netflix_Dataset.xlsx` from Kaggle and place it at "
-        "`data/Netflix_Dataset.xlsx`, then restart the app."
-    )
-    st.stop()
-
-df = load_and_clean(DATA_PATH)
+# Load local file if present, otherwise fall back to sample CSV
+if DATA_PATH.exists():
+    df = load_and_clean(DATA_PATH)
+else:
+    df = pd.read_csv(SAMPLE_URL)
 
 # ── Sidebar filters ───────────────────────────────────────────────────────────
 with st.sidebar:
